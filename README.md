@@ -2,8 +2,7 @@
 
 Keystroke Capture: The script records your keystrokes for a bit of digital detective work.
 
-How to Join the Fun
-Open the Script: Launch keylogger.py.
+First open the Script and run keylogger.py.
 
 Personalize It: Make it yours by changing:
 Replace 'ya email goes here' with your email.
