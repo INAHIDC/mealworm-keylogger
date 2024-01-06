@@ -13,5 +13,5 @@ Choose a file_path to store log file.
 Ready, Set, Go: Run the script using Python.
 
 When it's time to wrap up, press "Esc" to stop the script.
-A Word of Caution
+A Word of Caution - this is usually used in companies to keep track of employees and what theya're doing!
 Remember, this script is all about fun and learning. Always use it responsibly and respect others privacy.
